@@ -1,4 +1,5 @@
 #Dice game
+#new change 
 import random as r
 l=[]
 while 1:
